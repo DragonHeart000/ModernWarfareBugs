@@ -7,3 +7,4 @@ Repo to keep track of bugs in Modern Warfare (2019)
 
 # List of items to find more info on
 * It is still possible to have your camera stay put when you die instead of spectating someone, it seems this happens much less often now but it does still happen. I am trying to find out exactly what causes it.
+* https://i.gyazo.com/a9c762ab083e0b778e065c9bfca952f7.mp4
